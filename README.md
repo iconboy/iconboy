@@ -48,8 +48,21 @@ $ cat profile.json
 <!-- The block below is regenerated every day by .github/workflows/profile-stats.yml -->
 <!--START_SECTION:terminal-->
 ```console
-$ gh stats --live
-  ⏳ waiting for the first workflow run…
+$ gh stats --user iconboy --live
+┌─ contributions ────────────────────────────────────┐
+│ last 12 months      670 contributions              │
+│ current streak      1 day  🔥                      │
+│ longest streak      10 days                        │
+│ commits (1y)        649                            │
+│ pull requests       1                              │
+│ code reviews        0                              │
+│ issues opened       0                              │
+├─ repositories ─────────────────────────────────────┤
+│ owned               67   (4 public · 63 private)   │
+│ stars earned        0                              │
+│ followers           5                              │
+└────────────────────────────────────────────────────┘
+# last sync 2026-07-31 03:06 UTC · rebuilt daily by GitHub Actions
 ```
 <!--END_SECTION:terminal-->
 
@@ -122,7 +135,15 @@ $ gh stats --live
 
 <!--START_SECTION:languages-->
 ```text
-⏳ waiting for the first workflow run…
+JavaScript    ███████████░░░░░░░░░░░░░░░░░░░   35.5%
+HTML          ███████░░░░░░░░░░░░░░░░░░░░░░░   22.7%
+PHP           ██████░░░░░░░░░░░░░░░░░░░░░░░░   21.1%
+CSS           ████░░░░░░░░░░░░░░░░░░░░░░░░░░   11.9%
+SCSS          ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.1%
+Blade         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2.3%
+TypeScript    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.3%
+Vue           █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.3%
+other         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.8%
 ```
 <!--END_SECTION:languages-->
 
@@ -154,7 +175,12 @@ $ gh stats --live
 
 <!--START_SECTION:activity-->
 ```text
-⏳ waiting for the first workflow run…
+▸    iconboy                 JavaScript    pushed 0m ago
+▸ 🔒 private project #1      HTML          pushed 1d ago
+▸ 🔒 private project #2      HTML          pushed 1d ago
+▸ 🔒 private project #3      HTML          pushed 3d ago
+▸ 🔒 private project #4      PHP           pushed 9d ago
+▸ 🔒 private project #5      Rust          pushed 9d ago
 ```
 <!--END_SECTION:activity-->
 
