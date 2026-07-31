@@ -4,6 +4,13 @@ Este repositório é o **repo especial de perfil**: o `README.md` dele é o que 
 em https://github.com/iconboy. O nome do repo tem que ser exatamente `iconboy` e ele
 precisa ser **público**.
 
+> **Status (31/07/2026):** os passos 1 a 4 já foram executados — o repo está no ar em
+> https://github.com/iconboy/iconboy, o secret `GH_METRICS_TOKEN` está configurado,
+> as Actions têm permissão de escrita e os workflows já rodaram com sucesso.
+> O secret usa o token OAuth que já estava em `~/.git-credentials`; se um dia ele for
+> revogado, os workflows quebram — aí é só gerar um PAT dedicado (passo 2) e
+> substituir o secret.
+
 ## 1. Criar o repo e subir
 
 ```bash
