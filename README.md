@@ -50,19 +50,19 @@ $ cat profile.json
 ```console
 $ gh stats --user iconboy --live
 ┌─ contributions ────────────────────────────────────┐
-│ last 12 months      670 contributions              │
+│ last 12 months      671 contributions              │
 │ current streak      1 day  🔥                      │
 │ longest streak      10 days                        │
-│ commits (1y)        649                            │
+│ commits (1y)        650                            │
 │ pull requests       1                              │
 │ code reviews        0                              │
 │ issues opened       0                              │
 ├─ repositories ─────────────────────────────────────┤
-│ owned               67   (4 public · 63 private)   │
+│ owned               66   (3 public · 63 private)   │
 │ stars earned        0                              │
 │ followers           5                              │
 └────────────────────────────────────────────────────┘
-# last sync 2026-07-31 03:06 UTC · rebuilt daily by GitHub Actions
+# last sync 2026-07-31 03:08 UTC · rebuilt daily by GitHub Actions
 ```
 <!--END_SECTION:terminal-->
 
@@ -175,12 +175,12 @@ other         ░░░░░░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 ```text
-▸    iconboy                 JavaScript    pushed 0m ago
 ▸ 🔒 private project #1      HTML          pushed 1d ago
 ▸ 🔒 private project #2      HTML          pushed 1d ago
 ▸ 🔒 private project #3      HTML          pushed 3d ago
 ▸ 🔒 private project #4      PHP           pushed 9d ago
 ▸ 🔒 private project #5      Rust          pushed 9d ago
+▸ 🔒 private project #6      HTML          pushed 12d ago
 ```
 <!--END_SECTION:activity-->
 
