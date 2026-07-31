@@ -233,6 +233,10 @@ function replaceSection(md, name, body) {
 }
 
 const user = await graphql();
+
+// the profile repo itself is scaffolding, not work — keep it out of the numbers
+user.repositories.nodes = user.repositories.nodes.filter((r) => r.name !== LOGIN);
+
 let md = readFileSync(README, "utf8");
 const before = md;
 
