@@ -50,10 +50,10 @@ $ cat profile.json
 ```console
 $ gh stats --user iconboy --live
 ┌─ contributions ────────────────────────────────────┐
-│ last 12 months      1,123 contributions            │
-│ current streak      0 days                         │
+│ last 12 months      1,127 contributions            │
+│ current streak      2 days  🔥                     │
 │ longest streak      10 days                        │
-│ commits (1y)        1,040                          │
+│ commits (1y)        1,044                          │
 │ pull requests       55                             │
 │ code reviews        0                              │
 │ issues opened       0                              │
@@ -62,7 +62,7 @@ $ gh stats --user iconboy --live
 │ stars earned        1                              │
 │ followers           6                              │
 └────────────────────────────────────────────────────┘
-# last sync 2026-10-19 12:57 UTC · rebuilt daily by GitHub Actions
+# last sync 2026-10-20 11:24 UTC · rebuilt daily by GitHub Actions
 ```
 <!--END_SECTION:terminal-->
 
@@ -135,7 +135,7 @@ $ gh stats --user iconboy --live
 
 <!--START_SECTION:languages-->
 ```text
-JavaScript    ███████████░░░░░░░░░░░░░░░░░░░   35.4%
+JavaScript    ███████████░░░░░░░░░░░░░░░░░░░   35.3%
 PHP           ███████░░░░░░░░░░░░░░░░░░░░░░░   22.0%
 HTML          ██████░░░░░░░░░░░░░░░░░░░░░░░░   21.4%
 CSS           ████░░░░░░░░░░░░░░░░░░░░░░░░░░   11.9%
@@ -175,12 +175,12 @@ other         ░░░░░░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 ```text
-▸ 🔒 private project #1      PHP           pushed 3d ago
-▸ 🔒 private project #2      PHP           pushed 3d ago
-▸ 🔒 private project #3      HTML          pushed 5d ago
+▸ 🔒 private project #1      HTML          pushed 26m ago
+▸ 🔒 private project #2      PHP           pushed 20h ago
+▸ 🔒 private project #3      PHP           pushed 4d ago
 ▸ 🔒 private project #4      HTML          pushed 6d ago
-▸ 🔒 private project #5      PHP           pushed 10d ago
-▸ 🔒 private project #6      JavaScript    pushed 11d ago
+▸ 🔒 private project #5      HTML          pushed 7d ago
+▸ 🔒 private project #6      PHP           pushed 11d ago
 ```
 <!--END_SECTION:activity-->
 
